@@ -1,0 +1,181 @@
+﻿  pch.cpp
+  Animation.cpp
+  AnimationManager.cpp
+  Bank.cpp
+  Box.cpp
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(4,132): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Box.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(4,138): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/Box.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4838: conversion from 'T' to 'int' requires a narrowing conversion
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4838:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4838:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4838:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4838:         ]
+  (compiling source file '/Box.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,29): warning C4244:         ]
+  (compiling source file '/Box.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4838: conversion from 'T' to 'int' requires a narrowing conversion
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4838:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4838:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4838:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4838:         ]
+  (compiling source file '/Box.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Box.cpp(20,41): warning C4244:         ]
+  (compiling source file '/Box.cpp')
+  
+  Button.cpp
+  Camera.cpp
+  Card.cpp
+  Chip.cpp
+  CollisionEvent.cpp
+  ComboEvent.cpp
+  ConfigurationManager.cpp
+  ConsoleLogger.cpp
+  Controller.cpp
+  ControllerEvent.cpp
+  Deck.cpp
+  DefaultRenderer.cpp
+  DirectXRenderer.cpp
+  DynamicBody.cpp
+  DynamicSprite.cpp
+  Engine.cpp
+  Generating Code...
+  Compiling...
+  EventDispatcher.cpp
+  EventRegistry.cpp
+  FileLogger.cpp
+  FixedGameloop.cpp
+  Font.cpp
+  FrameBuffer.cpp
+  FrameGameloop.cpp
+  Game.cpp
+  GameConfiguration.cpp
+  Gameloop.cpp
+  GameObjectManager.cpp
+  Hand.cpp
+  HybridGameloop.cpp
+  Image.cpp
+  InputManager.cpp
+  JSONInterpreter.cpp
+  Key.cpp
+  KeyboardEvent.cpp
+  LevelScene.cpp
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\LevelScene.cpp(208,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/LevelScene.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\LevelScene.cpp(304,30): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  (compiling source file '/LevelScene.cpp')
+  
+  Line.cpp
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,52): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,52): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,52): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,52): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,52): warning C4244:         ]
+  (compiling source file '/Line.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,46): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,46): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,46): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,46): warning C4244:         ]
+  (compiling source file '/Line.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,40): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,40): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,40): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,40): warning C4244:         ]
+  (compiling source file '/Line.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,34): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,34): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,34): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Line.cpp(22,34): warning C4244:         ]
+  (compiling source file '/Line.cpp')
+  
+  Generating Code...
+  Compiling...
+  LoggerManager.cpp
+  Main.cpp
+  MenuScene.cpp
+  MouseEvent.cpp
+  Music.cpp
+  OpenGLBuffer.cpp
+  OpenGLDynamicSprite.cpp
+  OpenGLImage.cpp
+  OpenGLQuad.cpp
+  OpenGLRenderer.cpp
+  OpenGLShader.cpp
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\OpenGLShader.cpp(40,33): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/OpenGLShader.cpp')
+  
+  OpenGLSprite.cpp
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\OpenGLSprite.cpp(81,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/OpenGLSprite.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\OpenGLSprite.cpp(82,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/OpenGLSprite.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\OpenGLSprite.cpp(207,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenGLSprite.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\OpenGLSprite.cpp(207,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenGLSprite.cpp')
+  
+  Point.cpp
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,53): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,53): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,53): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,53): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,53): warning C4244:         ]
+  (compiling source file '/Point.cpp')
+  
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,41): warning C4244:         with
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,41): warning C4244:         [
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,41): warning C4244:             T=float
+S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\BLACKJACK-TEMPLATE\Point.cpp(22,41): warning C4244:         ]
+  (compiling source file '/Point.cpp')
+  
+  Rectangle.cpp
+  RenderDebug.cpp
+  Renderer.cpp
+  RendererFactory.cpp
+  ResourceManager.cpp
+  Scene.cpp
+  SceneManager.cpp
+  Generating Code...
+  Compiling...
+  SFX.cpp
+  Sprite.cpp
+  SpriteConfiguration.cpp
+  StaticBody.cpp
+  StaticSprite.cpp
+  Text.cpp
+  Timer.cpp
+  TimerManager.cpp
+  UserEvent.cpp
+  VariableGameloop.cpp
+  VertexArray.cpp
+  Wallet.cpp
+  Window.cpp
+  World.cpp
+  WorldBoundary.cpp
+  Generating Code...
+  BLACKJACK-TEMPLATE.vcxproj -> S:\Programming Fundamentals Term 2\VGP122_A02_Ayache_Raymond\x64\Debug\BLACKJACK-TEMPLATE.exe
